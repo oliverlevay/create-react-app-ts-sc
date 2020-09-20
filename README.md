@@ -1,3 +1,7 @@
+This is a simple boiler plate for creating new create-react-app projects with styled components & typescript already configured.
+
+----------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
